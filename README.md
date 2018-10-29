@@ -1,2 +1,2 @@
 # alert
-jellyalert
+基于系统AlertController提供的自定义弹窗封装--无障碍操作时可以不触控到navigationbar上的按钮
